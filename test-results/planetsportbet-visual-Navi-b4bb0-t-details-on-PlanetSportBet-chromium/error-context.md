@@ -1,0 +1,482 @@
+# Page snapshot
+
+```yaml
+- link "GambleAware":
+  - /url: https://www.gambleaware.org/
+  - img
+- link "GamCare":
+  - /url: https://www.gamcare.org.uk/get-support/talk-to-us-now/
+  - img
+- link "Take time to think":
+  - /url: http://taketimetothink.co.uk/
+  - img
+- banner:
+  - link "Planet Sport Bet":
+    - /url: /
+    - img
+  - navigation:
+    - navigation:
+      - link "sports":
+        - /url: /
+        - img
+        - text: sports
+      - link "in play":
+        - /url: /inplay
+        - img
+        - text: in play
+      - link "casino":
+        - /url: /casino
+        - img
+        - text: casino
+      - link "Football":
+        - /url: /sport/football
+      - link "Live casino":
+        - /url: /live-casino
+        - img
+        - text: Live casino
+      - link "Horses":
+        - /url: /sport/horseracing
+      - link "Bingo":
+        - /url: /casino?game=bingo
+        - img
+        - text: Bingo
+      - link "virtuals":
+        - /url: /virtuals
+        - img
+        - text: virtuals
+      - link "Tips":
+        - /url: https://www.planetsport.com
+      - link "ROCKET🚀BOOSTS":
+        - /url: https://planetsportbet.com/sport-special/RocketBoosts
+  - button:
+    - img
+- complementary:
+  - searchbox "Search sports"
+  - img
+  - text: Popular
+  - navigation:
+    - link "Horse Racing":
+      - /url: /sport/horseracing
+    - link "Football":
+      - /url: /sport/football
+    - link "Greyhound Racing":
+      - /url: /sport/greyhoundracing
+  - text: A-Z Betting
+  - navigation:
+    - link "🚀 ROCKET BOOSTS":
+      - /url: /sport-special/RocketBoosts
+    - link "American Football":
+      - /url: /sport/americanfootball
+    - link "Australian Rules":
+      - /url: /sport/australianrules
+    - link "Baseball":
+      - /url: /sport/baseball
+    - link "Basketball":
+      - /url: /sport/basketball
+    - link "Boxing":
+      - /url: /sport/boxing
+    - link "Cricket":
+      - /url: /sport/cricket
+    - link "Cycling":
+      - /url: /sport/cycling
+    - link "Darts":
+      - /url: /sport/darts
+    - link "Football":
+      - /url: /sport/football
+    - link "Formula One":
+      - /url: /sport/formulaone
+    - link "Gaelic Football":
+      - /url: /sport/gaelicfootball
+    - link "Gaelic Hurling":
+      - /url: /sport/gaelichurling
+    - link "Golf":
+      - /url: /sport/golf
+    - link "Greyhound Racing":
+      - /url: /sport/greyhoundracing
+    - link "Horse Racing":
+      - /url: /sport/horseracing
+    - link "Ice Hockey":
+      - /url: /sport/icehockey
+    - link "Mixed Martial Arts":
+      - /url: /sport/mixedmartialarts
+    - link "Motor Sport":
+      - /url: /sport/motorsport
+    - link "Politics":
+      - /url: /sport/politics
+    - link "Rugby League":
+      - /url: /sport/rugbyleague
+    - link "Rugby Union":
+      - /url: /sport/rugbyunion
+    - link "Snooker":
+      - /url: /sport/snooker
+    - link "Tennis":
+      - /url: /sport/tennis
+    - link "Volleyball":
+      - /url: /sport/volleyball
+  - text: Help & Support
+  - navigation:
+    - link "FAQ's":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=help
+- img
+- log
+- text: Scotland League Cup
+- combobox
+- img
+- log
+- text: Raith Rovers vs East Kilbride
+- combobox
+- img
+- banner:
+  - img
+  - text: Live tracker
+- iframe
+- navigation:
+  - button "All Markets"
+  - button "Total goals"
+- img
+- heading "Match Winner" [level=4]
+- list:
+  - listitem:
+    - text: Raith Rovers
+    - link "8/15":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Draw
+    - link "23/10":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: East Kilbride
+    - link "6/1":
+      - /url: "#"
+- img
+- heading "Correct Score" [level=4]
+- list:
+  - listitem:
+    - text: Raith Rovers 1-0
+    - link "16/5":
+      - /url: "#"
+  - listitem:
+    - text: Raith Rovers 2-0
+    - link "9/2":
+      - /url: "#"
+  - listitem:
+    - text: Raith Rovers 2-1
+    - link "9/1":
+      - /url: "#"
+  - listitem:
+    - text: Raith Rovers 3-0
+    - link "10/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Draw 0-0
+    - link "9/2":
+      - /url: "#"
+  - listitem:
+    - text: Draw 1-1
+    - link "7/1":
+      - /url: "#"
+  - listitem:
+    - text: Draw 2-2
+    - link "33/1":
+      - /url: "#"
+  - listitem:
+    - text: Draw 3-3
+    - link "90/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: East Kilbride 1-0
+    - link "11/1":
+      - /url: "#"
+  - listitem:
+    - text: East Kilbride 2-0
+    - link "35/1":
+      - /url: "#"
+  - listitem:
+    - text: East Kilbride 2-1
+    - link "28/1":
+      - /url: "#"
+  - listitem:
+    - text: East Kilbride 3-0
+    - link "85/1":
+      - /url: "#"
+- button "More":
+  - text: More
+  - img
+- img
+- heading "Match Winner + 1.5 Goals" [level=4]
+- list:
+  - listitem:
+    - text: Raith Rovers and over +1.5
+    - link "13/10":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Raith Rovers and under +1.5
+    - link "16/5":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: East Kilbride and over +1.5
+    - link "12/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: East Kilbride and under +1.5
+    - link "11/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Draw and over +1.5
+    - link "11/2":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Draw and under +1.5
+    - link "9/2":
+      - /url: "#"
+- img
+- heading "Match Winner + 2.5 Goals" [level=4]
+- list:
+  - listitem:
+    - text: Raith Rovers and over +2.5
+    - link "13/5":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Raith Rovers and under +2.5
+    - link "7/5":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: East Kilbride and over +2.5
+    - link "16/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: East Kilbride and under +2.5
+    - link "8/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Draw and over +2.5
+    - link "22/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Draw and under +2.5
+    - link "12/5":
+      - /url: "#"
+- img
+- heading "Match Winner + 3.5 Goals" [level=4]
+- list:
+  - listitem:
+    - text: Raith Rovers and over +3.5
+    - link "7/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Raith Rovers and under +3.5
+    - link "3/4":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: East Kilbride and over +3.5
+    - link "35/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: East Kilbride and under +3.5
+    - link "6/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Draw and over +3.5
+    - link "22/1":
+      - /url: "#"
+- list:
+  - listitem:
+    - text: Draw and under +3.5
+    - link "12/5":
+      - /url: "#"
+- img
+- heading "Half-Time Full-Time" [level=4]
+- separator
+- img
+- heading "Both Teams To Score" [level=4]
+- separator
+- img
+- heading "Draw no bet" [level=4]
+- separator
+- img
+- heading "Double chance" [level=4]
+- separator
+- img
+- heading "Total goals (over/under 0.5)" [level=4]
+- separator
+- img
+- heading "Total goals (over/under 1.5)" [level=4]
+- separator
+- img
+- heading "Total goals (over/under 2.5)" [level=4]
+- separator
+- img
+- heading "Handicap +1" [level=4]
+- separator
+- img
+- heading "Handicap +2" [level=4]
+- separator
+- img
+- heading "Handicap -1" [level=4]
+- separator
+- img
+- heading "Handicap -2" [level=4]
+- separator
+- img
+- heading "Handicap -3" [level=4]
+- separator
+- img
+- heading "Match result and both teams to score" [level=4]
+- separator
+- img
+- heading "Raith Rovers to win to nil" [level=4]
+- separator
+- img
+- heading "East Kilbride to win to nil" [level=4]
+- separator
+- img
+- heading "Match winning margin" [level=4]
+- separator
+- img
+- heading "Total East Kilbride Goals Under/Over 0.5" [level=4]
+- separator
+- img
+- heading "Total East Kilbride Goals Under/Over 1.5" [level=4]
+- separator
+- img
+- heading "Total Raith Rovers Goals Under/Over 0.5" [level=4]
+- separator
+- img
+- heading "Total Raith Rovers Goals Under/Over 1.5" [level=4]
+- separator
+- img
+- heading "Total Raith Rovers Goals Under/Over 2.5" [level=4]
+- separator
+- img
+- heading "Both Teams Score In 2nd Half" [level=4]
+- contentinfo:
+  - heading "Useful Links" [level=3]
+  - navigation:
+    - link "About Us":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=about-us
+    - link "Safer Gambling":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=safer-gambling
+    - link "FAQ's":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=help
+    - link "Affiliates":
+      - /url: https://affiliates.planetsportbet.com/
+    - link "Privacy Policy":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=privacy-policy
+    - link "Terms & Conditions":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=terms-and-conditions
+    - link "Betting Rules":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=betting-rules
+    - link "Give us Feedback":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=give-feedback
+    - link "Cookie settings":
+      - /url: ""
+  - heading "Contact Us" [level=3]
+  - navigation:
+    - link "Email us":
+      - /url: mailto:customerservice@planetsportbet.com
+      - img
+      - text: Email us
+    - link "Facebook":
+      - /url: https://www.facebook.com/planetsportbet
+      - img
+      - text: Facebook
+    - link "X":
+      - /url: https://twitter.com/planetsportbet
+      - img
+      - text: X
+    - link "Instagram":
+      - /url: https://www.instagram.com/planetsportbet/
+      - img
+      - text: Instagram
+  - heading "Payment Methods" [level=3]
+  - list:
+    - listitem:
+      - img
+    - listitem:
+      - img
+    - listitem:
+      - img
+    - listitem:
+      - img
+  - heading "Safer Gambling" [level=3]
+  - img
+  - text: Underage Gambling is an offence
+  - link "read more about ibas UK":
+    - /url: https://www.ibas-uk.com/
+    - img
+  - link "read more about gamstop.co.uk":
+    - /url: https://www.gamstop.co.uk/
+    - img
+  - link "read more about gambling comission":
+    - /url: https://www.gamblingcommission.gov.uk/
+    - img
+  - link "read more about be gamble aware":
+    - /url: https://www.gambleaware.org/
+    - img
+  - link "read more at gamcare.org.uk":
+    - /url: https://www.gamcare.org.uk/get-support/talk-to-us-now/
+    - img
+  - link "read more at taketimetothink.co.uk":
+    - /url: https://www.taketimetothink.co.uk/
+    - img
+  - link "read more at gamblingtherapy.org":
+    - /url: https://gamblingtherapy.org/
+    - img
+  - paragraph:
+    - text: Planet Sport Bet is committed to
+    - link "Safer Gambling":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=safer-gambling
+  - paragraph:
+    - text: "Planet Sport Bet is a trading name of Planet Bet Ltd, a company incorporated in England and Wales with company number 13131056. Registered office: First Floor 20 Victoria Avenue, Osborne House, Harrogate, England, HG1 5QY. Planet Bet Ltd is licensed and regulated in Great Britain by the Gambling Commission under account number"
+    - link "65109":
+      - /url: https://www.gamblingcommission.gov.uk/public-register/business/detail/65109
+    - text: . This site uses cookies, for more information please see our
+    - link "cookie policy":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=static&static=cookie-policy
+    - text: .
+- complementary:
+  - navigation:
+    - link "Login":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=login
+      - img
+      - text: Login
+    - link "Sign Up":
+      - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=signup
+      - img
+      - text: Sign Up
+  - heading "Bets" [level=2]
+  - img
+  - text: Empty betslip. Make some selections and they will show up here
+  - img
+  - text: Casino Mini Games
+  - img "Sugar Rush"
+  - img "Big Bass Bonanza"
+  - text: See More
+  - iframe
+  - link "T&C's apply":
+    - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=terms-and-conditions-promos&notificationId=396
+  - link "T&C's apply":
+    - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=terms-and-conditions-promos&notificationId=494
+  - link "T&C's apply":
+    - /url: /event/91369255/raith-rovers-vs-east-kilbride?account=terms-and-conditions-promos&notificationId=330
+  - iframe
+- img
+```
